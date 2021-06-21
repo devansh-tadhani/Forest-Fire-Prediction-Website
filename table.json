@@ -1,0 +1,24 @@
+{
+    "table": [
+        {
+            "header": "COMMODITIES",
+            "content": [
+                { "c1": "Commodity", "price": "Price", "change": "Change", "chg": "%Chg"},
+                { "c1": "Gold Aug 05", "price": "46,800.00", "change": "-158.00", "chg": "-0.34"},
+                { "c1": "Silver Jul 05", "price": "67,580.00", "change": "-19.00", "chg": "-0.03"},
+                { "c1": "Crudeoil Jul 19", "price": "5,299.00", "change": "59.00", "chg": "1.13"},
+                { "c1": "Naturalgas Jun 25", "price": "238.90", "change": "-1.40", "chg": "-0.58"}
+            ]
+        },
+        {
+            "header": "BONDS",
+            "content": [
+                { "c1": "Name", "price": "Price", "change": "Change", "chg": "%Chg"},
+                { "c1": "Sbi", "price": "412.90" , "change": "-7.35", "chg": "-1.75"},
+                { "c1": "Ntpc", "price": "113.55", "change": "-3.85", "chg": "-3.28"},
+                { "c1": "Indiabulls Hsg", "price": "278.90", "change": "-4.80", "chg": "-1.69"},
+                { "c1": "Nhpc", "price": "26.60", "change": "-0.05", "chg": "-0.19"}
+            ]
+        }
+    ]
+}
